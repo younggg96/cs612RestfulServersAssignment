@@ -1,0 +1,27 @@
+[
+  {
+  "id":1,
+  "name":"Tom",
+  "courses": [
+    {"id":1,"name":"Java","score":100},
+    {"id":2,"name":"Android","score":80},
+    {"id":3,"name":"Python","score":70}
+  	]
+  },
+  {
+  "id":2,
+    "name":"Jerry",
+    "courses": [
+      {"id":1,"name":"Java","score":90},
+      {"id":2,"name":"Python","score":70}
+    ]
+  },
+  {
+  "id":3,
+    "name":"Jay",
+    "courses": [
+      {"id":1,"name":"Java","score":90},
+      {"id":2,"name":"Android","score":70}
+    ]
+  }
+]
