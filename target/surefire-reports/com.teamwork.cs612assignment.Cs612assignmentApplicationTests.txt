@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.teamwork.cs612assignment.Cs612assignmentApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.952 s - in com.teamwork.cs612assignment.Cs612assignmentApplicationTests
